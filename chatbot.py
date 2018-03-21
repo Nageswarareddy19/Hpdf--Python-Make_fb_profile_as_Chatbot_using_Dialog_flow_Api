@@ -49,7 +49,7 @@ class Connection(Client):
 
 
 #  enter your email and password for facebook("sample@gmail.com","Password")
-client = Connection("sample@gmail.com","password")
+client = Connection("kandikondanageswarareddy@yahoo.com","7893344309")
 
 # Listen for new message
 client.listen()
