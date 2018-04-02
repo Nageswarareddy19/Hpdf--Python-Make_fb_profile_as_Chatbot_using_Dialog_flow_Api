@@ -1,4 +1,4 @@
-# Making Facebook Messanger as Chatbot With The Help of DialogFlow APi
+# Making Facebook Messenger as Chatbot With The Help of DialogFlow APi
 This is a basic project to get started with Python-Flask
 
 ## Getting Started
